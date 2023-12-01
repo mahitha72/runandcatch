@@ -1,0 +1,28 @@
+.start{
+    margin-left: 750px;
+    /* padding: 20px 20px 20px 20px; */
+    /* padding-left: 20px;
+    padding-top: 10px; */
+    border-radius: 20px;
+    font-size: 35px;
+    background-color:blue;
+    color: white;
+  }
+  .result{
+    font-size: 50px;
+    text-align: center;
+  }
+  .mango{
+    background-image: url(mango.jpeg);
+    width: 200px;
+    height: 200px;
+    display: flex;
+    /* margin-left: 1100px;
+    margin-bottom: 200px; */
+  }
+  h2{
+    text-align: center;
+  }
+  img:hover{
+    border: solid 3px black;
+  }
